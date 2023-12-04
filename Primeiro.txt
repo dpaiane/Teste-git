@@ -1,2 +1,3 @@
-1-Ueu primeiro commit
-2-Um novo commit na branch hotfixed
+1-Primeiro commit - branch Master
+2-Segundo commit - branch hotfixed
+3-Terceiro commit - branch Hotfixed 
